@@ -1,0 +1,207 @@
+body{
+    padding: 36px 160px 35px;
+    background-color: #edf2c5;
+}
+header{
+    position:absolute;
+    top: 70px;
+    left: 160px;
+    right: 160px;
+    bottom: 733px;
+    width: 940px;
+    height: 44px;
+    margin: 18px 0 20px;
+    padding: 5px 250px 11px 30px;
+    border-radius: 3px;
+    background-color: #778a50;
+}
+#p{
+    position:absolute;
+    top: 36px;
+    left: 160px;
+    right: 829px;
+    bottom: 782px;
+    width: 271px;
+    height: 62px;
+    margin: 0 669px 747px 0;
+    font-family: Arial;
+    font-size: 44px;
+    font-weight: 900;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 0.82;
+    letter-spacing: normal;
+    text-align: left;
+    color: #778a50;
+}
+#fb{
+    width: 25px;
+    height: 25px;
+    position:absolute;
+    top: 50px;
+    left: 1125px;
+}
+#ig{
+    width: 25px;
+    height: 25px;
+    position:absolute;
+    top: 50px;
+    left: 1170px;
+}
+#LOGIN{
+    width: 65px;
+    height: 25px;
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: bold;
+    color: #778a50;
+    position:absolute;
+    top: 50px;
+    left: 1235px;
+}
+#JOIN{
+    width: 65px;
+    height: 25px;
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: bold;
+    color: #778a50;
+    position:absolute;
+    top: 50px;
+    left: 1315px;
+}
+input{
+    border: solid 1.5px #778a50;
+    background-color: #edf2c5;
+    border-radius: 5px;
+}
+.line_login {
+    width: 1px;
+    height: 25px;
+    position:absolute;
+    top: 50px;
+    left: 1215px;
+    background-color: #778a50;
+}
+.Home {
+    width: 51px;
+    height: 23px;
+    margin: 0px 60px 10px 10px;
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: 900;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 3.0;
+    letter-spacing: normal;
+    text-align: left;
+    color: #edf2c5;
+}
+#pumpkin{
+    width: 1220px;
+    height: 550px;
+    position:absolute;
+    top: 170px;
+    left: 160px;
+}
+.body_box_vegetables {
+    width: 570px;
+    height: 60px;
+    position:absolute;
+    top: 750px;
+    left: 160px;
+    border-radius: 3px;
+    background-color: #778a50;
+}
+.body_box_contact {
+    width: 565px;
+    height: 60px;
+    position:absolute;
+    top: 750px;
+    left: 800px;
+    border-radius: 3px;
+    background-color: #778a50;
+}
+#Vegetables ,#contact{
+    font-family: Arial;
+    font-size: 18px;
+    font-weight: 900;
+    color: #edf2c5;
+    position:absolute;
+    top: 0px;
+    left: 40px;
+}
+#pepper{
+    position:absolute;
+    top: 830px;
+    left: 160px;
+    width: 170px;
+    height: 155px;
+}
+#carrot{
+    position:absolute;
+    top: 830px;
+    left: 360px;
+    width: 170px;
+    height: 155px;
+}
+#corn{
+    position:absolute;
+    top: 830px;
+    left: 560px;
+    width: 170px;
+    height: 155px;
+}
+.body_box_contact_text {
+    width: 560px;
+    height: 155px;
+    position:absolute;
+    top: 830px;
+    left: 800px;
+    background-color: #f7fbda;
+}
+#wordone{
+    position:absolute;
+    top: 840px;
+    left: 830px;
+    font-family: Arial;
+    font-size: 12px;
+    color: #7d7d7d;
+    line-height: 1.65;
+}
+.line_contact_text {
+    position:absolute;
+    top: 890px;
+    left: 830px;
+    width: 495px;
+    height: 1px;
+    margin: 15px 0;
+    background-color: #7d7d7d;
+}
+#email{
+    position:absolute;
+    top: 910px;
+    left: 830px;
+    font-family: Arial;
+    font-size: 12px;
+    color: #7d7d7d;
+    line-height: 2.0;
+}    
+.box_footer {
+    width: 1200px;
+    height: 60px;
+    position:absolute;
+    top: 1000px;
+    left: 160px;
+    background-color: #778a50;
+}
+#footer{
+    color:#edf2c5;
+    width: 301px;
+    height: 14px;
+    position:absolute;
+    top: 1011px;
+    left: 640px;
+    font-family: Arial;
+    font-size: 12px;
+}
