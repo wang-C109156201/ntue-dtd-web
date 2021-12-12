@@ -1,0 +1,85 @@
+html,body{
+    
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+.bannerone{
+    display: flex;
+    text-align: left;
+}
+.box{
+    display: flex;
+    background-color: #9F7B70;
+}
+.flex-nav {
+    display: flex;
+}
+nav > ul {
+    background-color: rgb(15, 15, 15);
+    color: #FAEBD7;
+    list-style: none;   /* 移除項目符號 */
+    margin: 0;
+    padding: 0;
+    justify-content: space-evenly;
+    
+}
+nav a {
+    color: inherit; /* 移除超連結顏色 */
+    display: block; /* 讓 <a> 填滿 <li> */
+    font-family: Overlock SC;
+    font-size: 1.2rem;
+    margin-top: 15px;
+    margin-left: 42px;
+    margin-right: 42px;
+    justify-content: space-evenly;
+    text-decoration: none;  /* 移除超連結底線 */
+}
+/* 滑鼠移到 <a> 時變成深底淺色 */
+nav li:hover {
+    background-color: rgb(115, 115, 115);
+    color: #FAEBD7;
+}
+.titleimg{
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    margin-top: 100px;
+}
+.p{
+    color: #FAEBD7;
+    font-size: 32px;
+    line-height: 39px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+.purchaselink{
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    margin-top: 30px;
+}
+.purchaselink2{
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    margin-top: 5px;
+    margin-bottom: 15px;
+}
+.ContentSwitch{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: black;
+}
+
+.container{
+    background-color: #FAEBD7;
+    width: 100%;
+}
+.footer{
+    background-color: #FAEBD7;
+    display: flex;
+    width: 100%;
+}
